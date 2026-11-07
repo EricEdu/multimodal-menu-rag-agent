@@ -1,5 +1,7 @@
 # 🍔 Assistente Inteligente de Cardápio (RAG Pipeline)
 
+![Demonstração do Agente](demo.png)
+
 Agente conversacional baseado em **Retrieval-Augmented Generation (RAG)** desenvolvido para auxiliar clientes na descoberta de pratos, filtragem rigorosa de alergênicos/restrições alimentares e simulação de orçamento em tempo real.
 
 ## 🏗️ Arquitetura da Solução
@@ -23,8 +25,8 @@ Agente conversacional baseado em **Retrieval-Augmented Generation (RAG)** desenv
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com
-cd ifood-menu-ai-agent
+git clone https://github.com/EricEdu/multimodal-menu-rag-agent
+cd multimodal-menu-rag-agent
 ```
 
 2. Instale as dependências:
