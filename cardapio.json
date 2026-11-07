@@ -1,0 +1,62 @@
+[
+  {
+    "id": "BRG-01",
+    "nome": "Smash Duplo Bacon Cheddar",
+    "categoria": "Hambúrgueres",
+    "preco": 36.90,
+    "descricao": "Dois blends bovinos de 90g prensados na chapa, queijo cheddar inglês derretido, bacon crocante artesanal e maionese defumada no pão brioche.",
+    "alergenicos": ["glúten", "lactose", "ovo"],
+    "restricoes": [],
+    "tempo_preparo_min": 18
+  },
+  {
+    "id": "BRG-02",
+    "nome": "Burger Futuro Verde (Plant-Based)",
+    "categoria": "Hambúrgueres",
+    "preco": 38.50,
+    "descricao": "Hambúrguer 100% vegetal à base de proteína de ervilha, queijo vegano de castanha de caju, rúcula, tomate seco e molho pesto sem queijo no pão australiano vegano.",
+    "alergenicos": ["glúten", "castanha de caju"],
+    "restricoes": ["vegano", "vegetariano", "sem lactose"],
+    "tempo_preparo_min": 20
+  },
+  {
+    "id": "PR-01",
+    "nome": "Poke Salmão Tropical",
+    "categoria": "Pratos Leves",
+    "preco": 44.00,
+    "descricao": "Base de arroz gohan, cubos de salmão fresco marinado no shoyu, manga, avocado, pepino japonês, gergelim torrado e crispy de couve.",
+    "alergenicos": ["peixe", "soja", "gergelim"],
+    "restricoes": ["sem lactose"],
+    "tempo_preparo_min": 15
+  },
+  {
+    "id": "PR-02",
+    "nome": "Risoto de Cogumelos Silvestres",
+    "categoria": "Pratos Executivos",
+    "preco": 49.90,
+    "descricao": "Arroz arbóreo cremoso preparado com mix de shimeji, shiitake e paris frescos, finalizado com manteiga trufada e parmesão.",
+    "alergenicos": ["lactose"],
+    "restricoes": ["vegetariano", "sem glúten"],
+    "tempo_preparo_min": 25
+  },
+  {
+    "id": "BEB-01",
+    "nome": "Suco Natural de Laranja com Morango 500ml",
+    "categoria": "Bebidas",
+    "preco": 14.50,
+    "descricao": "Suco prensado na hora sem adição de açúcar ou conservantes.",
+    "alergenicos": [],
+    "restricoes": ["vegano", "vegetariano", "sem glúten", "sem lactose"],
+    "tempo_preparo_min": 5
+  },
+  {
+    "id": "SOB-01",
+    "nome": "Brownie Belga com Calda de Chocolate",
+    "categoria": "Sobremesas",
+    "preco": 19.90,
+    "descricao": "Brownie intenso de chocolate meio amargo 70% cacau com nozes pecãs.",
+    "alergenicos": ["glúten", "lactose", "ovo", "nozes"],
+    "restricoes": ["vegetariano"],
+    "tempo_preparo_min": 8
+  }
+]
